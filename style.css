@@ -1,0 +1,55 @@
+h1{
+	color: white;
+	font-size:65px;
+	}
+h2{
+	color: white;
+	font-size: 60px;
+}
+img{
+	height: 140px
+}
+
+body{
+	background-color: black;
+}
+.jul{
+	text-align: center;
+	background-image: url("images/fooot.jpg");
+	image-size:cover;
+	padding: 80px
+}
+h3{
+	color: white
+}
+.pnl{
+	text-align: center;
+	background-image: url("images/black.jpg");
+}
+.banner{
+	text-align: center;
+	background-image: url("images/black.jpg");
+}
+.bro{
+	text-align:center;
+	background-image: url("images/black.jpg");
+}
+.bnl{
+	text-align:center;
+	background-image: url("images/black.jpg");
+}
+.bob{
+	text-align: center;
+	background-image:url("images/black.jpg");: 
+}
+.zut{
+	text-align: center;
+	background-image: url("images/black.jpg");
+}
+a{
+	font-size: 30px
+	color; white
+}	
+.contact{
+	color: white;
+}
